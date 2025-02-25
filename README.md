@@ -16,17 +16,19 @@ cd Anomaly-Detection
 pip install -r requirements.txt
 
 ▶️ Usage
+
 Run the script:
 python project.py
 
 📜 Requirements
-Python 3.x
-OpenCV
-NumPy
-Matplotlib
-Scikit-learn
+
+- Python 3.x
+- OpenCV
+- NumPy
+- Matplotlib
+- Scikit-learn
 
 💡 Future Enhancements
-Improve anomaly detection accuracy
-Add deep learning-based motion analysis
-Support multiple camera inputs
+- Improve anomaly detection accuracy
+- Add deep learning-based motion analysis
+- Support multiple camera inputs
