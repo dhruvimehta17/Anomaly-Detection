@@ -12,11 +12,14 @@ A motion and anomaly detection system using OpenCV and One-Class SVM.
 🛠️ Installation
 
 1. Clone this repository:
+   
 git clone https://github.com/dhruvimehta17/Anomaly-Detection.git
 
 cd Anomaly-Detection
 
-3. Install dependencies:
+
+2. Install dependencies:
+   
 pip install -r requirements.txt
 
 ▶️ Usage
